@@ -1,4 +1,4 @@
-                                                                 - 👋 Hi, I’m THIOYE , Thechnologies enthusiast
+                                                                 - 👋 Hi, I’m THIOYE ,
 
 
 
