@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Phone-%2B223%2072%2072%2080%2089-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -43,7 +42,7 @@ I build solutions that connect **user needs**, **technical quality** and **real 
 - API design, product logic and scalable architecture
 - End-to-end implementation from idea to deployment
 
-### 🔗 Blockchain Solutions
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="22" /> Blockchain Solutions
 - **Web3-ready platforms**
 - **MetaMask wallet integration**
 - Smart contract interactions
@@ -76,7 +75,7 @@ I build solutions that connect **user needs**, **technical quality** and **real 
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,fastapi,mongodb,git,github,vercel" />
 </p>
 
-
+---
 
 ## 🚀 Signature Project
 
@@ -99,7 +98,7 @@ A blockchain-powered **P2P platform** designed for real usage with a strong prod
 
 ---
 
-## ⛓️ Blockchain Expertise
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="28" /> Blockchain Expertise
 
 I also work on blockchain-focused products involving:
 
@@ -111,7 +110,7 @@ I also work on blockchain-focused products involving:
 
 ---
 
-## 🐍 Python Engineering
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" /> Python Engineering
 
 I use Python for:
 
