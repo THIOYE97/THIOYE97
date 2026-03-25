@@ -80,7 +80,7 @@ I build solutions that connect **user needs**, **technical quality** and **real 
 ## 🦊 MetaMask Popup
 
 <p align="center">
-  <img src="./assets/metamask-popup.png" alt="MetaMask popup preview" width="420" />
+  <img src="./metamask-popup.png" alt="MetaMask popup preview" width="420" />
 </p>
 
 <p align="center">
