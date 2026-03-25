@@ -30,7 +30,7 @@ My profile combines three strong dimensions:
 - **Blockchain / Web3** — smart contracts, DApps, MetaMask integration, Web3 APIs, wallet-based flows
 - **Product Thinking** — roadmap vision, execution, prioritization, business alignment
 
-I like building solutions that connect **user needs**, **technical quality** and **real business value**.
+I build solutions that connect **user needs**, **technical quality** and **real business value**.
 
 ---
 
@@ -77,6 +77,18 @@ I like building solutions that connect **user needs**, **technical quality** and
 
 ---
 
+## 🦊 MetaMask Popup
+
+<p align="center">
+  <img src="./assets/metamask-popup.png" alt="MetaMask popup preview" width="420" />
+</p>
+
+<p align="center">
+  <sub>Static MetaMask popup preview to reflect my Web3 product environment and blockchain workflow.</sub>
+</p>
+
+---
+
 ## 🚀 Signature Project
 
 ### 🔥 Binance-style P2P Platform — Production Ready
@@ -118,25 +130,6 @@ I use Python for:
 - automation
 - technical workflows
 - product-oriented engineering solutions
-
----
-
-## 🖥️ Web3 Visual Identity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MetaMask-Connected-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wallet-Popup%20Ready-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blockchain-Real%20Use%20Cases-1d4ed8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Execution-Robust%20Solutions-7c3aed?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MetaMask%20Popup-Static%20Visual-F6851B?style=flat-square&logo=metamask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3%20Mode-Always%20On-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Product%20Focus-Payments%20%26%20Blockchain-2563eb?style=flat-square" />
-</p>
-
-> This profile highlights the technologies and product capabilities I actively use, including private work that may not be reflected in public GitHub statistics.
 
 ---
 
