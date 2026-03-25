@@ -98,7 +98,7 @@ A blockchain-powered **P2P platform** designed for real usage with a strong prod
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="28" /> Blockchain Expertise
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="28" /> Web3 & Blockchain Expertise
 
 I also work on blockchain-focused products involving:
 
