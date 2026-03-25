@@ -42,7 +42,11 @@ I build solutions that connect **user needs**, **technical quality** and **real 
 - API design, product logic and scalable architecture
 - End-to-end implementation from idea to deployment
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="22" /> Blockchain Solutions
+### Blockchain Solutions
+<p>
+  <img src="https://img.shields.io/badge/Web3-Ethereum%20%26%20Blockchain-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
+</p>
+
 - **Web3-ready platforms**
 - **MetaMask wallet integration**
 - Smart contract interactions
@@ -98,7 +102,10 @@ A blockchain-powered **P2P platform** designed for real usage with a strong prod
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="28" /> Web3 & Blockchain Expertise
+## Blockchain Expertise
+<p>
+  <img src="https://img.shields.io/badge/Blockchain-Ethereum%20%7C%20Web3-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
+</p>
 
 I also work on blockchain-focused products involving:
 
@@ -110,7 +117,10 @@ I also work on blockchain-focused products involving:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" /> Python Engineering
+## Python Engineering
+<p>
+  <img src="https://img.shields.io/badge/Python-Engineering-3776AB?style=flat-square&logo=python&logoColor=FFD43B" />
+</p>
 
 I use Python for:
 
