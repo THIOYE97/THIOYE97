@@ -77,15 +77,12 @@ I build solutions that connect **user needs**, **technical quality** and **real 
 
 ---
 
-## 🦊 MetaMask Popup
 
 <p align="center">
-  <img src="./metamask-popup.png" alt="MetaMask popup preview" width="420" />
+  <img src="./metamask-popup.png" alt="MetaMask popup preview" width="820" />
 </p>
 
-<p align="center">
-  <sub>Static MetaMask popup preview to reflect my Web3 product environment and blockchain workflow.</sub>
-</p>
+
 
 ---
 
