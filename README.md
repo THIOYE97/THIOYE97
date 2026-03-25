@@ -17,6 +17,9 @@
   </a>
   <img src="https://img.shields.io/badge/Phone-%2B223%2072%2072%2080%2089-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
+<p align="center">
+  <img src="./metamask-popup.png" alt="MetaMask popup preview" width="820" />
+</p>
 
 ---
 
@@ -75,16 +78,7 @@ I build solutions that connect **user needs**, **technical quality** and **real 
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,fastapi,mongodb,git,github,vercel" />
 </p>
 
----
 
-
-<p align="center">
-  <img src="./metamask-popup.png" alt="MetaMask popup preview" width="820" />
-</p>
-
-
-
----
 
 ## 🚀 Signature Project
 
