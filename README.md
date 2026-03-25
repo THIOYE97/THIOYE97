@@ -42,7 +42,7 @@ I build solutions that connect **user needs**, **technical quality** and **real 
 - API design, product logic and scalable architecture
 - End-to-end implementation from idea to deployment
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="22" /> Blockchain Solutions
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="22" /> Blockchain Solutions
 - **Web3-ready platforms**
 - **MetaMask wallet integration**
 - Smart contract interactions
