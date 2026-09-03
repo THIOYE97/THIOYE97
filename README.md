@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1220,40:1d4ed8,75:7c3aed,100:f59e0b&text=THIOYE%20MARIKO&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Building%20the%20future%20of%20products%2C%20payments%20and%20blockchain%20%E2%80%94%20one%20robust%20solution%20at%20a%20time.&descAlignY=56&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1220,40:1d4ed8,75:7c3aed,100:f59e0b&text=THIOYE%20MARIKO&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Full-stack%20products%2C%20real%20users%2C%20real%20payments%20%E2%80%94%20shipped%20end%20to%20end.&descAlignY=56&descSize=18" />
 </p>
 
-<h1 align="center">Full-Stack Developer • Product Owner • Blockchain Builder</h1>
+<h1 align="center">Full-Stack Developer • Product Builder</h1>
 
 <p align="center">
-  I build digital products that combine <b>business vision</b>, <b>solid engineering</b> and <b>Web3 innovation</b>.
+  I build and ship <b>production web products</b> — from database to deployment — with a strong focus on <b>performance</b>, <b>reliability</b> and <b>real business outcomes</b>.
 </p>
 
 <p align="center">
@@ -22,125 +22,75 @@
 
 ## 👨‍💻 About Me
 
-I’m **Thioye Mariko**, a **Full-Stack Developer** and **Product Owner** passionate about building products that are **useful, scalable and production-ready**.
+I'm **Thioye Mariko**, a **Full-Stack Developer** based in Bamako, building products end to end — from data model to deployed interface.
 
-My profile combines three strong dimensions:
+My work combines three things:
 
-- **Software Engineering** — modern web apps, backend systems, APIs, product architecture
-- **Blockchain / Web3** — smart contracts, DApps, MetaMask integration, Web3 APIs, wallet-based flows
-- **Product Thinking** — roadmap vision, execution, prioritization, business alignment
+- **Software Engineering** — modern web apps, backend APIs, product architecture, TypeScript across the stack
+- **Product Thinking** — turning a business need into a shipped, measured, iterated product
+- **Broad technical range** — Node.js and Python backends, React/Next.js frontends, and enough Web3/Solidity background to work comfortably on blockchain-adjacent products when a project calls for it
 
-I build solutions that connect **user needs**, **technical quality** and **real business value**.
+I care about the parts that are easy to skip under deadline pressure: loading states, error states, empty states, mobile performance, and code a teammate can actually review.
 
 ---
 
-## 🚀 What I Build
+## 🚀 Signature Project
 
-### 💻 Full-Stack Products
-- Modern user interfaces with **React**
-- Robust backend services with **Node.js**
-- API design, product logic and scalable architecture
-- End-to-end implementation from idea to deployment
+### 📰 Vision Féminine — media platform, in production
 
-### Blockchain Solutions
-<p>
-  <img src="https://img.shields.io/badge/Web3-Ethereum%20%26%20Blockchain-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
-</p>
+A full editorial platform built and shipped end to end: **Next.js 16**, **TypeScript**, **Tailwind CSS**, **Payload CMS**, **PostgreSQL**, deployed on **Vercel**.
 
-- **Web3-ready platforms**
-- **MetaMask wallet integration**
-- Smart contract interactions
-- Blockchain transaction flows
-- Practical and secure decentralized user experiences
+🔗 [visionfeminine.media](https://www.visionfeminine.media/)
 
-### 📈 Product-Driven Execution
-- Turning ideas into real digital products
-- Translating business needs into technical solutions
-- Bridging the gap between **product vision** and **engineering delivery**
+- SSR/SSG rendering, canonical URLs, sitemaps and Open Graph images for social sharing
+- RSS/Atom feeds, internal search, author pages
+- Automated quality gates: **Playwright** end-to-end tests, **Lighthouse CI** performance budgets, **axe-core** accessibility checks
+- Built with an AI-assisted dev workflow (Claude Code) as a daily tool, not a novelty
+
+This is the project that best represents how I work: production-minded from day one, not a demo.
+
+---
+
+## 💼 Other Full-Stack Products
+
+- **[Sankoré](https://github.com/THIOYE97/sankore)** — open-source TypeScript payment toolkit unifying mobile money, banking, microfinance, wallets and cards under a single contract for West Africa
+- **Ikadou** — [mobile app](https://github.com/THIOYE97/Ikadou-Mobile-APp) (React Native) + [back-office](https://github.com/THIOYE97/iKadou_backoffice) (React) + [API](https://github.com/THIOYE97/ikadou_backend) (Node.js/Express) for diaspora land management
+- **Simandou Screening** — sanctions/AML screening tool: [React frontend](https://github.com/THIOYE97/Simandou-Screening-Frontend), [Python/FastAPI backend](https://github.com/THIOYE97/api_simandou_screening), daily sanctions-list sync agent
 
 ---
 
 ## ⚙️ Core Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Language-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-React%20Framework-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=0b1220" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-APIs%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-Python%20Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-Smart%20Contracts-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-Web3-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaMask-Wallet%20Integration-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-API%20Integration-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Application%20Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,fastapi,mongodb,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,python,fastapi,postgres,mongodb,git,github,vercel" />
 </p>
-
----
-
-## 🚀 Signature Project
-
-### 🔥 Binance-style P2P Platform — Production Ready
-
-A blockchain-powered **P2P platform** designed for real usage with a strong production mindset.
-
-#### Built With
-- **Node.js**
-- **React**
-- **Web3 API**
-- **MetaMask**
-- blockchain transaction flow integration
-
-#### What This Project Demonstrates
-- My ability to build **serious Web3 products**
-- My understanding of **real exchange and payment flows**
-- My capacity to deliver from **product vision to technical execution**
-- My focus on **robustness, usability and scalability**
-
----
-
-## Blockchain Expertise
-<p>
-  <img src="https://img.shields.io/badge/Blockchain-Ethereum%20%7C%20Web3-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
-</p>
-
-I also work on blockchain-focused products involving:
-
-- **Solidity smart contracts**
-- **Ethereum ecosystem integrations**
-- **MetaMask connection flows**
-- **wallet-based interactions**
-- **practical decentralized application experiences**
-
----
-
-## Python Engineering
-<p>
-  <img src="https://img.shields.io/badge/Python-Engineering-3776AB?style=flat-square&logo=python&logoColor=FFD43B" />
-</p>
-
-I use Python for:
-
-- backend APIs
-- automation
-- technical workflows
-- product-oriented engineering solutions
 
 ---
 
 ## 🎯 Professional Mindset
 
-- Building with a **product-first approach**
-- Shipping solutions that are **practical and scalable**
-- Combining **technical execution** with **business understanding**
-- Creating products ready for **real users and real markets**
+- Product-first: understanding *why* a feature exists, not just *how* to build it
+- Shipping practical, scalable solutions for real users on real infrastructure
+- Comfortable working close to a CTO/founder — code review, fast iteration, direct ownership
+- Daily use of AI-assisted development tools (Claude Code) as part of a professional workflow
+
+<sub>Also: earlier-career background in blockchain/Web3 — Solidity smart contracts, Ethereum, wallet integrations — available on request.</sub>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:marikothioye@gmail.com">📧 marikothioye@gmail.com</a><br/>
@@ -151,5 +101,5 @@ I use Python for:
 ---
 
 <p align="center">
-  <b>Building the future of products, payments and blockchain — one robust solution at a time.</b>
+  <b>Building fast, reliable full-stack products for real users — from idea to production.</b>
 </p>
