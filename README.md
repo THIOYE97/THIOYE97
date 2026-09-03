@@ -45,7 +45,6 @@ A full editorial platform built and shipped end to end: **Next.js 16**, **TypeSc
 - SSR/SSG rendering, canonical URLs, sitemaps and Open Graph images for social sharing
 - RSS/Atom feeds, internal search, author pages
 - Automated quality gates: **Playwright** end-to-end tests, **Lighthouse CI** performance budgets, **axe-core** accessibility checks
-- Built with an AI-assisted dev workflow (Claude Code) as a daily tool, not a novelty
 
 This is the project that best represents how I work: production-minded from day one, not a demo.
 
@@ -84,7 +83,6 @@ This is the project that best represents how I work: production-minded from day 
 - Product-first: understanding *why* a feature exists, not just *how* to build it
 - Shipping practical, scalable solutions for real users on real infrastructure
 - Comfortable working close to a CTO/founder — code review, fast iteration, direct ownership
-- Daily use of AI-assisted development tools (Claude Code) as part of a professional workflow
 
 <sub>Also: earlier-career background in blockchain/Web3 — Solidity smart contracts, Ethereum, wallet integrations — available on request.</sub>
 
